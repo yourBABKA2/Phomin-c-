@@ -1,0 +1,11 @@
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\bin\Debug\Phomin_Lab№1.exe.config
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\bin\Debug\Phomin_Lab№1.exe
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\bin\Debug\Phomin_Lab№1.pdb
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\obj\Debug\Phomin_Lab№1.csproj.AssemblyReference.cache
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\obj\Debug\Phomin_Lab№1.csproj.SuggestedBindingRedirects.cache
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\obj\Debug\Phomin_Lab_1.Form1.resources
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\obj\Debug\Phomin_Lab_1.Properties.Resources.resources
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\obj\Debug\Phomin_Lab№1.csproj.GenerateResource.cache
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\obj\Debug\Phomin_Lab№1.csproj.CoreCompileInputs.cache
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\obj\Debug\Phomin_Lab№1.exe
+C:\Users\chike\source\repos\Phomin_Lab№1\Phomin_Lab№1\obj\Debug\Phomin_Lab№1.pdb
